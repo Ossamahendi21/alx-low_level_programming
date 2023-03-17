@@ -1,0 +1,1 @@
+This project, completed during my **Full Stack Software Engineering studies** at **ALX School**, was designed to teach the fundamentals of **C programming language** including arithmetic operators, relational operators, boolean operators, declaring variables, loops, and commenting practices.
