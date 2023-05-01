@@ -1,4 +1,8 @@
- @head: address of pointer to first node
+#include "lists.h"
+
+/**
+ * insert_nodeint_at_index - inserts new node at given index
+ * @head: address of pointer to first node
  * @idx: index to insert new node
  * @n: n value of new node
  *
